@@ -1,0 +1,24 @@
+# Environments
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Local package artifacts
+*.whl
+
+# Runtime log file (see BOT_LOG_FILE in bot)
+logs/
+*.log
